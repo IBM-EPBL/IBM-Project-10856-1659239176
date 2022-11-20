@@ -6,8 +6,8 @@
 
 * Assignment 1 : Home automation using Arduino - TinkerCad
 * Assignment 2 : Alert system for temperature and humidity using Python
-* Assignment 3 :
-* Assignment 4 :
+* Assignment 3 : Write python code for blinking LED and Traffic lights for Raspberry pi.
+* Assignment 4 : Write code and connections in wokwi for the ultrasonic sensor.
   
 
 **Pre-Development**
