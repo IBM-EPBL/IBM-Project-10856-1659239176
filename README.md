@@ -22,11 +22,18 @@
         2. Prepare Solution Fit :
         3. Solution Architecture :
 * Project Design Phase - II :
+        1. Customer Journey 
+        2. DataFlow Diagrams
+        3. Functional/Non-Functional Requirements
+        4. Technology Architecture
 * Project Planning :
+        1. Milestone and Activity
+        2. Sprint Delivery
+        3. Jira Files
   
 
 **Project Development Phase**
-* Sprint 1 :
-* Sprint 2 :
-* Sprint 3 :
-* Sprint 4 :
+* Sprint 1 : DONE
+* Sprint 2 : DONE
+* Sprint 3 : DONE
+* Sprint 4 : DONE
